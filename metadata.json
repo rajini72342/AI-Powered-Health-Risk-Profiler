@@ -1,0 +1,7 @@
+{
+  "name": "VitalScan: AI Health Profiler",
+  "description": "An intelligent health risk profiling tool that uses OCR to parse lifestyle surveys, extract risk factors, and provide actionable, non-diagnostic wellness recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
